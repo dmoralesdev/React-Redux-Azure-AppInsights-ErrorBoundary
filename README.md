@@ -1,5 +1,5 @@
 # React-Redux-Azure-AppInsights-ErrorBoundary
- Creating a React (Redux) App with Azure AppInsights and graceful error handler/logger
+ Creating a React (Redux) App with Azure AppInsights logger and graceful error handler
 
  Replace the HTML inside errorBoundaryContent with your own message to the user.
 
